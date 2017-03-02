@@ -1,0 +1,12 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\restservicecats\restservicecats.winphone\obj\debug\intermediatexaml\restservicecats.winphone.exe" HashGuid="a05a4fb8-d8fa-ce0b-3d41-93c6c1ee7862" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\restservicecats\restservicecats\bin\debug\restservicecats.dll" HashGuid="7bea19ea-4b6b-ef08-44a2-d4b5845534a5" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.platform.winrt.dll" HashGuid="739997af-d3af-47b8-5b3b-888c2ab8fd2b" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.platform.winrt.phone.dll" HashGuid="63c58f91-4202-fe55-ec2a-7e34dee9505b" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\wpa81\xamarin.forms.xaml.dll" HashGuid="964969a0-caee-7d9d-82cd-9d1d01056ded" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
