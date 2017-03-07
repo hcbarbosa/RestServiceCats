@@ -1,8 +1,12 @@
 <XamlCompilerSaveState>
   <ReferenceAssemblyList>
     <LocalAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\restservicecats\restservicecats.windows\obj\debug\intermediatexaml\restservicecats.windows.exe" HashGuid="ff0da995-aeb7-6787-e8e3-e4c8cf9bddc7" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\microsoft.azure.mobile.client.3.1.0\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="d6a3dc69-a548-594a-6d32-f7c923aa64d9" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\microsoft.azure.mobile.client.3.1.0\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="e47c24a5-20c2-9f71-9849-dd6360f9b667" />
     <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\newtonsoft.json.9.0.1\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="424e6aa8-ba94-c678-e707-af9fe9838e1a" />
-    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\restservicecats\restservicecats\bin\debug\restservicecats.dll" HashGuid="7bea19ea-4b6b-ef08-44a2-d4b5845534a5" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\restservicecats\restservicecats\bin\debug\restservicecats.dll" HashGuid="a2dd2ab1-1b2d-23f1-46b1-3f99c84f2c83" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
     <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.core.dll" HashGuid="c782f70f-077f-7e2d-5bd4-f6b5da067f8a" />
     <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
     <ReferenceAssembly PathName="d:\documents\visual studio 2015\projects\restservicecats\packages\xamarin.forms.2.3.3.193\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="739997af-d3af-47b8-5b3b-888c2ab8fd2b" />

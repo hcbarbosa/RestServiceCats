@@ -10,6 +10,7 @@ namespace RestServiceCats.Models
 {
     public class Repository
     {
+        /* ##Metodo usado quando estava utilizando consulta de serviço Rest
         public async Task<List<Cat>> GetCats()
         {
             List<Cat> Cats;
@@ -20,6 +21,11 @@ namespace RestServiceCats.Models
                 Cats = JsonConvert.DeserializeObject<List<Cat>>(JSON);
             }
             return Cats;
-        }
+        } ## */        // Metodo usado para consulta no Azure (backend app)        public async Task<List<Cat>> GetCats()
+        {
+            var Service = new Services.AzureService<Cat>();
+            var Items = await Service.GetTable();
+            return Items.ToList();
+        }
     }
 }

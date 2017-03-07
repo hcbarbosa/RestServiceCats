@@ -1,0 +1,2 @@
+d:\Documents\Visual Studio 2015\Projects\RestServiceCats\RestServiceCats\RestServiceCats.UWP\RestServiceCats.UWP.csproj;x86
+d:\Documents\Visual Studio 2015\Projects\RestServiceCats\RestServiceCats\RestServiceCats\RestServiceCats.csproj;neutral
